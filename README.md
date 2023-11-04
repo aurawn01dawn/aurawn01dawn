@@ -1,11 +1,11 @@
 ### Hi, I'm DXQ 👋  
 
 Welcome to my profile! I am currently a student in a computer related field.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">   
-And I'm looking for an opportunity to further my education or to find a suitable internship position.
+And I'm looking for an opportunity to further my education or to find a suitable internship position.  
 
 ---  
 
-### :thought_balloon: This is where you can find out more about me :rocket:  
+### :thought_balloon: This is where you can find out more about me.   
 - I want to be an engineer, especially in data mining/computer vision.  
 - I'm a hardcore enthusiast of Linux.  
 - I'm trying to learn to express myself in English. (Obvious, no?)  
@@ -13,7 +13,7 @@ And I'm looking for an opportunity to further my education or to find a suitable
 
 ---  
 
-### 📝 A little more about me in coding :rocket:
+### 💻 A little more about me in coding.  
 - I'm coding with python, R and C/C++. (By proficiency)
 - I'm familiar with Linux, including command line operations, system configuration, and package management.
 - I'm interested in data analysis/mining, image processing.  
@@ -21,8 +21,10 @@ And I'm looking for an opportunity to further my education or to find a suitable
 
 ---
 
-### A beginner using GitHub.
+### 📝 A beginner using GitHub.  
 
 ![Dawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurawn01dawn&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurawn01dawn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
