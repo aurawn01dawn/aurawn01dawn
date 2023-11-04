@@ -2,9 +2,9 @@
 
 Welcome to my profile! I am currently a student in a computer related field.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">   
 And I'm looking for an opportunity to further my education or to find a suitable internship position.
-  
+
 ---  
-  
+
 ### :thought_balloon: This is where you can find out more about me :rocket:  
 - I want to be an engineer, especially in data mining/computer vision.  
 - I'm a hardcore enthusiast of Linux.  
@@ -19,3 +19,10 @@ And I'm looking for an opportunity to further my education or to find a suitable
 - I'm interested in data analysis/mining, image processing.  
 - I'm expanding my skills...  
 
+---
+
+### A beginner using GitHub.
+
+![Dawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurawn01dawn&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurawn01dawn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
