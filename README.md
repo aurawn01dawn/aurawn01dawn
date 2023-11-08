@@ -25,5 +25,4 @@ And I'm looking for an opportunity to further my education or to find a suitable
 
 ![Dawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurawn01dawn&show_icons=true&theme=transparent)
 
-
 ---
