@@ -6,7 +6,7 @@ And I'm looking for an opportunity to further my education or to find a suitable
 ---  
 
 ### :thought_balloon: This is where you can find out more about me.   
-- I want to be an engineer, especially in data mining/computer vision.  
+- I want to be an engineer, especially in algorithm or computer vision.  
 - I'm a hardcore enthusiast of Linux.  
 - I'm trying to learn to express myself in English. (Obvious, no?)  
 - You can get in touch with me at aurawn.dawn@gmail.com or 15054193998@163.com.  
