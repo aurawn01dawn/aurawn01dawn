@@ -1,12 +1,12 @@
 <h1 align="center"><em>Hi there👋, I'm DXQ</em></h1>  
 
-📝 A creator from China
-- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">    Welcome to my profile! I am currently a student in a computer related field.
+### 📝 A creator from China
+- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"> Welcome to my profile! I'm currently a student in the field of computer science.
 - 👨‍💼 I'm looking for an opportunity to further my education or to find a suitable internship position.  
 
 
 ### 🌱 A beginner in CS/AI
-- 📚 I'm currently Data Mining and Image Processing.
+- 📚 I'm currently learning Data Mining and Image Processing.
 - 🪄 Linux/Opensource enthusiast; ~~Arch Linux user;~~ Debian Linux user.
 - 📫 You can get in touch with me at aurawn.dawn@gmail.com.
 
