@@ -6,7 +6,7 @@
 
 
 ### 🌱 A beginner in CS/AI
-- 📚 I'm currently learning Data Mining and Image Processing.
+- 📚 I'm currently learning Data Science and Image Processing.
 - 🪄 Linux/Opensource enthusiast; ~~Arch Linux user;~~ Debian Linux user.
 - 📫 You can get in touch with me at aurawn.dawn@gmail.com.
 
