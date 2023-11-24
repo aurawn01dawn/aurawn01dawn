@@ -2,7 +2,7 @@
 
 ### 📝 A creator from China
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"> Welcome to my profile! I'm currently a student in the field of computer science.
-- 👨‍💼 I'm looking for an opportunity to find a suitable internship position or to further my education.  
+- 👨‍💼 I'm in search of a suitable internship or further education opportunity.
 
 
 ### 🌱 A beginner in CS/AI
