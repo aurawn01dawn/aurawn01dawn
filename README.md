@@ -2,11 +2,11 @@
 
 ### 📝 A creator from China
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"> Welcome to my profile! I'm currently a student in the field of computer science.
-- 👨‍💼 I'm in search of a suitable internship.
+- 👨‍💼 And I'm in search of a suitable internship.
 
 
 ### 🌱 A beginner in CS/AI
-- 📚 I'm currently learning Data Mining and Image Processing.
+- 📚 I am revisiting and consolidating what I learned during my university studies.
 - 🪄 Linux/Opensource enthusiast; ~~Arch Linux user;~~ Debian Linux user.
 - 📫 You can get in touch with me at aurawn.dawn@gmail.com.
 
