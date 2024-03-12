@@ -7,7 +7,7 @@
 
 ### 🌱 A beginner in CS/AI
 - 📚 I am revisiting and consolidating what I learned during my university studies.
-- 🪄 Linux/Opensource enthusiast; ~~Arch Linux user;~~ Debian Linux user.
+- 🪄 Linux/Opensource enthusiast; Arch Linux user; ~~Debian Linux user.~~
 - 📫 You can get in touch with me at aurawn.dawn@gmail.com.
 
 
